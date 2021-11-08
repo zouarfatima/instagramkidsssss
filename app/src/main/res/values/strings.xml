@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">instagramkids</string>
+    <string name="forgot"><font color='#FFFFFFFF'>forget your login details ? </font> get help logging in !</string>
+    <string name="sign_up"><font color='#FFFFFFFF'>don't have an account </font> sign up </string>
+</resources>
